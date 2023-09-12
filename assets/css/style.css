@@ -1,3 +1,6 @@
+/* Global
+__________________________________________________________________________________________________________*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,7 +11,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* This section includes items in the header section
+/* Header
 __________________________________________________________________________________________________________*/
 
 header {
@@ -48,6 +51,9 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+
+/* Main
+__________________________________________________________________________________________________________*/
 
 p {
     font-size: 16px;
@@ -89,17 +95,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit-lead,.benefit-brand,.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
