@@ -11,19 +11,8 @@ ___________________________________________*/
 ___________________________________________*/
 
 
-/* Start Body Styles
-___________________________________________*/
-body {
-    background-color: #d9dcd6;
-}
-
-/* End Body Styles
-___________________________________________*/
-
 /* Start Header Styles
 ___________________________________________*/
-
-
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -64,6 +53,18 @@ a {
 
 /* End Header Styles
 ___________________________________________*/
+
+
+/* Start Body Styles
+___________________________________________*/
+
+body {
+    background-color: #d9dcd6;
+}
+
+/* End Body Styles
+___________________________________________*/
+
 
 /* Start Main Styles
 ___________________________________________*/
